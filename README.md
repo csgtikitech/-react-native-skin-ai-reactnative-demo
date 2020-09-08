@@ -54,7 +54,7 @@ class App extends React.Component {
       <SkinAI
         email = 'abc@gmail.com',
         apikey = 'apikey',
-        linkserver = 'https://shrouded-brushlands-68077.herokuapp.com',
+        linkserver = 'linkserver',
         language = 'en',
         exitPage={() => {}}
       />
